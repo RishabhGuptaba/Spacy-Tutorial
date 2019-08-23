@@ -1,3 +1,3 @@
 # Spacy-Tutorial
 Spacy Tutorial
-35028925-4260-47bb-a668-bd38a401891b35028925-4260-47bb-a668-bd38a401891b
+https://docs.google.com/spreadsheets/d/13SwLDwYaS3YcrtuRWb8rQx3htIZLObh2gkDzBFXFhpQ/edit#gid=0
